@@ -38,3 +38,7 @@
   animation-name:sami;
   animation-duration: 5s;
 }
+
+body{
+  background-color: lightblue;
+}
